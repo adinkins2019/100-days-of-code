@@ -17,4 +17,9 @@
 
 **Link to work:** Personal Website(https://github.com/adinkins2019/personal_website)
 
+### Day 3: January 4, 2020
+####
 
+**Today's Progress**: Today I decide to depart from my personal website and focus on working on my Lambda School Project.  The Project is concerned with using useReducer and the reducer pattern to make a to do app.  Have just started on this project, I manage to get the majority of the look and feel of the web app done. Tomorrow I will focus on finishing an completing the application.
+
+**Link to work:** Lambda Reducer To Do App(https://github.com/adinkins2019/reducer-todo/tree/antonio-dinkins)
