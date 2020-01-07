@@ -32,3 +32,11 @@
 
 **Link to work:** https://repl.it/@afdinki/CavernousLinearSequences
 **Link to work:** Lambda Reducer To Do App(https://github.com/adinkins2019/reducer-todo/tree/antonio-dinkins)
+
+### Day 5: January 6, 2020
+####
+
+**Today's Progress**: Today I decide to work on some tutorials. I decided to work on the React Tic Tac Toe tutorial
+**Thoughts:** I just wanted to make sure that my fundamentals on React are sound and that I'm understanding all of the concepts. I also wanted to brush up on some key concepts
+
+**Link to work:** (https://codepen.io/afdinki/pen/OJPzqvM?editors=0010)
