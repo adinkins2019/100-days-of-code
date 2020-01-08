@@ -40,3 +40,12 @@
 **Thoughts:** I just wanted to make sure that my fundamentals on React are sound and that I'm understanding all of the concepts. I also wanted to brush up on some key concepts
 
 **Link to work:** (https://codepen.io/afdinki/pen/OJPzqvM?editors=0010)
+
+### Day 6: January 7, 2020
+####
+
+**Today's Progress**: Today I decided to continue working on my personal website. I also continued working on my Reducer To Do app.
+**Thoughts:** The Reducer To Do app is taking a lot longer than expected. I'm going to try and watch some videos on Youtube covering those topics.
+
+**Link to work:** (https://github.com/adinkins2019/personal_website)
+**Link to work:** Lambda Reducer To Do App(https://github.com/adinkins2019/reducer-todo/tree/antonio-dinkins)
